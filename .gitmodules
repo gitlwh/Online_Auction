@@ -1,0 +1,3 @@
+[submodule "auction"]
+	path = auction
+	url = https://github.com/gitlwh/auction.git
